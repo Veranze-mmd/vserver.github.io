@@ -1,1 +1,6 @@
 # vserver.github.io
+<html>
+<body style="margin:0px;padding:1px;background:#000000;">
+<img src="https://i.imgur.com/8Dhu2Jc.jpeg" style="width:100%;height:100%;" />
+</body>
+</html>
